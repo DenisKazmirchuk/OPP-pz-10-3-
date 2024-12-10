@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OPP pz 10(3)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
